@@ -1,0 +1,78 @@
+body {
+	margin: 0px;
+}
+
+a:link {
+	color: #4b79cc;
+	font-weight: lighter;
+}
+
+a:hover {
+	color: #9487e6;
+}
+
+
+.article{
+	max-width: 1000px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+img {
+    max-width: 100%;
+    width: 950px;
+}
+
+h1{
+	font-family: "Noto Serif", serif;
+	font-size: 40px;
+	font-weight: bold;
+	padding-top: 0px;
+	margin-bottom: 0px;
+}
+
+.deck{
+	font-size: 18px;
+	font-family: 'Noto Serif', sans-serif;
+	font-weight: normal;
+	margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.photo-caption {
+    color: #808080;
+    font-size: 14px;
+    font-family: 'Noto Serif', sans-serif;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.byline {
+    font-size: 25px;
+    margin-bottom: 2px;
+    font-family: "Noto Serif", sans-serif;
+}
+
+.publish-date{
+	font-size: 14px;
+	font-family: 'Noto Serif', sans-serif;
+	color: #808080;
+	margin-top: 0px;
+}
+
+.story-body {
+	font-family: 'Noto Serif', sans-serif;
+	font-size: 22px;
+	max-width: 700px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	background-color: white;
+}
